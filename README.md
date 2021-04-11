@@ -1,13 +1,12 @@
-Painless QR
-===========
+# Painless QR
 
 Very basic QR code writer...
 
 Uses this awesome library ->
 
 
-Usage
-=====
+## Usage
+
 Basic usage of pqr goes like:
 
 -a, --address <arg>  Specify an address (or text) for a new QR code.
